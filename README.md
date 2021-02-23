@@ -17,6 +17,8 @@ Open [http://localhost:1234](http://localhost:1234) to view it in the browser.
 
 ### Example
 
+![Oceans website](oceans.gif)
+
 ### NOTE
 
 It's just a simple example, quickly coded, not optimized.

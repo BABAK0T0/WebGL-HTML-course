@@ -1,4 +1,4 @@
-# Raging Sea
+# WebGL_HTML_Course
 
 Simple website using shaders for interactions.
 

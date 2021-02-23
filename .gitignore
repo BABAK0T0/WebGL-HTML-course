@@ -1,0 +1,15 @@
+.cache/
+dist/
+node_modules/
+
+yarn.lock
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+.vscode/
+.DS_Store
+.npm/
+
+*.tgz
+*.zip
